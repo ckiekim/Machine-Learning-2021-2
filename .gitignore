@@ -2,7 +2,8 @@
 # file 명
 # directory/
 exercise.ipynb
-
+labeledTrainData.tsv
+model/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
